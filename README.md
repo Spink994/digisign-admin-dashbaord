@@ -18,6 +18,13 @@ Lastly, run development server:
 yarn dev
 ```
 
+To run test:
+
+```bash
+# or
+yarn test
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start "Login" by selecting a "User type" and then clicking the "Login button", it automatically logs you in as the selected user type. No need to type in anything, the information is prefilled.
@@ -28,8 +35,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
